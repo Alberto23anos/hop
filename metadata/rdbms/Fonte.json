@@ -1,17 +1,17 @@
 {
   "rdbms": {
     "MYSQL": {
-      "databaseName": "${DatabaseName}",
+      "databaseName": "sakila",
       "pluginId": "MYSQL",
       "accessType": 0,
-      "hostname": "${ServerLocal}",
-      "password": "${Password}",
+      "hostname": "localhost",
+      "password": "Encrypted ",
       "pluginName": "MySQL",
-      "port": "${Password}",
-      "driverClassName": "Mysql 8+",
+      "port": "3306",
+      "driverClassName": "Mysql",
       "attributes": {
         "SUPPORTS_TIMESTAMP_DATA_TYPE": "N",
-        "STREAM_RESULTS": "N",
+        "STREAM_RESULTS": "Y",
         "EXTRA_OPTION_MYSQL.useCursorFetch": "true",
         "EXTRA_OPTION_MYSQL.defaultFetchSize": "500",
         "FORCE_IDENTIFIERS_TO_LOWERCASE": "N",
@@ -19,12 +19,12 @@
         "FORCE_IDENTIFIERS_TO_UPPERCASE": "N",
         "QUOTE_ALL_FIELDS": "N",
         "EXTRA_OPTION_MYSQL.zeroDateTimeBehaviorValue": "CONVERT_TO_NULL",
-        "SUPPORTS_BOOLEAN_DATA_TYPE": "N",
+        "SUPPORTS_BOOLEAN_DATA_TYPE": "Y",
         "SQL_CONNECT": "",
         "PREFERRED_SCHEMA_NAME": ""
       },
       "manualUrl": "",
-      "username": "${Username}"
+      "username": "root"
     }
   },
   "name": "Fonte"
