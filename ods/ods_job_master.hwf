@@ -36,24 +36,22 @@
       <description/>
       <type>PIPELINE</type>
       <attributes/>
-      <filename>${PROJECT_HOME}/ods/ods_tr_sakila_category.hpl</filename>
-      <params_from_previous>N</params_from_previous>
-      <exec_per_row>N</exec_per_row>
-      <clear_rows>N</clear_rows>
-      <clear_files>N</clear_files>
-      <set_logfile>N</set_logfile>
-      <logfile/>
-      <logext/>
       <add_date>N</add_date>
       <add_time>N</add_time>
-      <loglevel>Basic</loglevel>
-      <set_append_logfile>N</set_append_logfile>
-      <wait_until_finished>Y</wait_until_finished>
+      <clear_files>N</clear_files>
+      <clear_rows>N</clear_rows>
       <create_parent_folder>N</create_parent_folder>
-      <run_configuration>local</run_configuration>
+      <exec_per_row>N</exec_per_row>
+      <filename>${PROJECT_HOME}/ods/ods_tr_sakila_category.hpl</filename>
+      <loglevel>Basic</loglevel>
       <parameters>
         <pass_all_parameters>Y</pass_all_parameters>
       </parameters>
+      <params_from_previous>N</params_from_previous>
+      <run_configuration>local</run_configuration>
+      <set_append_logfile>N</set_append_logfile>
+      <set_logfile>N</set_logfile>
+      <wait_until_finished>Y</wait_until_finished>
       <parallel>N</parallel>
       <xloc>176</xloc>
       <yloc>48</yloc>
@@ -90,24 +88,22 @@
       <description/>
       <type>PIPELINE</type>
       <attributes/>
-      <filename>${PROJECT_HOME}/ods/ods_trf_payment.hpl</filename>
-      <params_from_previous>N</params_from_previous>
-      <exec_per_row>N</exec_per_row>
-      <clear_rows>N</clear_rows>
-      <clear_files>N</clear_files>
-      <set_logfile>N</set_logfile>
-      <logfile/>
-      <logext/>
       <add_date>N</add_date>
       <add_time>N</add_time>
-      <loglevel>Basic</loglevel>
-      <set_append_logfile>N</set_append_logfile>
-      <wait_until_finished>Y</wait_until_finished>
+      <clear_files>N</clear_files>
+      <clear_rows>N</clear_rows>
       <create_parent_folder>N</create_parent_folder>
-      <run_configuration>local</run_configuration>
+      <exec_per_row>N</exec_per_row>
+      <filename>${PROJECT_HOME}/ods/ods_trf_payment.hpl</filename>
+      <loglevel>Basic</loglevel>
       <parameters>
         <pass_all_parameters>Y</pass_all_parameters>
       </parameters>
+      <params_from_previous>N</params_from_previous>
+      <run_configuration>local</run_configuration>
+      <set_append_logfile>N</set_append_logfile>
+      <set_logfile>N</set_logfile>
+      <wait_until_finished>Y</wait_until_finished>
       <parallel>N</parallel>
       <xloc>432</xloc>
       <yloc>48</yloc>
@@ -118,24 +114,22 @@
       <description/>
       <type>PIPELINE</type>
       <attributes/>
-      <filename>${PROJECT_HOME}/ods/ods_trf_rental.hpl</filename>
-      <params_from_previous>N</params_from_previous>
-      <exec_per_row>N</exec_per_row>
-      <clear_rows>N</clear_rows>
-      <clear_files>N</clear_files>
-      <set_logfile>N</set_logfile>
-      <logfile/>
-      <logext/>
       <add_date>N</add_date>
       <add_time>N</add_time>
-      <loglevel>Basic</loglevel>
-      <set_append_logfile>N</set_append_logfile>
-      <wait_until_finished>Y</wait_until_finished>
+      <clear_files>N</clear_files>
+      <clear_rows>N</clear_rows>
       <create_parent_folder>N</create_parent_folder>
-      <run_configuration>local</run_configuration>
+      <exec_per_row>N</exec_per_row>
+      <filename>${PROJECT_HOME}/ods/ods_trf_rental.hpl</filename>
+      <loglevel>Basic</loglevel>
       <parameters>
         <pass_all_parameters>Y</pass_all_parameters>
       </parameters>
+      <params_from_previous>N</params_from_previous>
+      <run_configuration>local</run_configuration>
+      <set_append_logfile>N</set_append_logfile>
+      <set_logfile>N</set_logfile>
+      <wait_until_finished>Y</wait_until_finished>
       <parallel>N</parallel>
       <xloc>560</xloc>
       <yloc>48</yloc>
@@ -146,24 +140,22 @@
       <description/>
       <type>PIPELINE</type>
       <attributes/>
-      <filename>${PROJECT_HOME}/ods/ods_trf_customer.hpl</filename>
-      <params_from_previous>N</params_from_previous>
-      <exec_per_row>N</exec_per_row>
-      <clear_rows>N</clear_rows>
-      <clear_files>N</clear_files>
-      <set_logfile>N</set_logfile>
-      <logfile/>
-      <logext/>
       <add_date>N</add_date>
       <add_time>N</add_time>
-      <loglevel>Basic</loglevel>
-      <set_append_logfile>N</set_append_logfile>
-      <wait_until_finished>Y</wait_until_finished>
+      <clear_files>N</clear_files>
+      <clear_rows>N</clear_rows>
       <create_parent_folder>N</create_parent_folder>
-      <run_configuration>local</run_configuration>
+      <exec_per_row>N</exec_per_row>
+      <filename>${PROJECT_HOME}/ods/ods_trf_customer.hpl</filename>
+      <loglevel>Basic</loglevel>
       <parameters>
         <pass_all_parameters>Y</pass_all_parameters>
       </parameters>
+      <params_from_previous>N</params_from_previous>
+      <run_configuration>local</run_configuration>
+      <set_append_logfile>N</set_append_logfile>
+      <set_logfile>N</set_logfile>
+      <wait_until_finished>Y</wait_until_finished>
       <parallel>N</parallel>
       <xloc>704</xloc>
       <yloc>48</yloc>
@@ -184,24 +176,22 @@
       <description/>
       <type>PIPELINE</type>
       <attributes/>
-      <filename>${PROJECT_HOME}/ods/ods_trf_sakila_store.hpl</filename>
-      <params_from_previous>N</params_from_previous>
-      <exec_per_row>N</exec_per_row>
-      <clear_rows>N</clear_rows>
-      <clear_files>N</clear_files>
-      <set_logfile>N</set_logfile>
-      <logfile/>
-      <logext/>
       <add_date>N</add_date>
       <add_time>N</add_time>
-      <loglevel>Basic</loglevel>
-      <set_append_logfile>N</set_append_logfile>
-      <wait_until_finished>Y</wait_until_finished>
+      <clear_files>N</clear_files>
+      <clear_rows>N</clear_rows>
       <create_parent_folder>N</create_parent_folder>
-      <run_configuration>local</run_configuration>
+      <exec_per_row>N</exec_per_row>
+      <filename>${PROJECT_HOME}/ods/ods_trf_sakila_store.hpl</filename>
+      <loglevel>Basic</loglevel>
       <parameters>
         <pass_all_parameters>Y</pass_all_parameters>
       </parameters>
+      <params_from_previous>N</params_from_previous>
+      <run_configuration>local</run_configuration>
+      <set_append_logfile>N</set_append_logfile>
+      <set_logfile>N</set_logfile>
+      <wait_until_finished>Y</wait_until_finished>
       <parallel>N</parallel>
       <xloc>848</xloc>
       <yloc>48</yloc>
@@ -212,24 +202,22 @@
       <description/>
       <type>PIPELINE</type>
       <attributes/>
-      <filename>${PROJECT_HOME}/ods/ods_trf_staff.hpl</filename>
-      <params_from_previous>N</params_from_previous>
-      <exec_per_row>N</exec_per_row>
-      <clear_rows>N</clear_rows>
-      <clear_files>N</clear_files>
-      <set_logfile>N</set_logfile>
-      <logfile/>
-      <logext/>
       <add_date>N</add_date>
       <add_time>N</add_time>
-      <loglevel>Basic</loglevel>
-      <set_append_logfile>N</set_append_logfile>
-      <wait_until_finished>Y</wait_until_finished>
+      <clear_files>N</clear_files>
+      <clear_rows>N</clear_rows>
       <create_parent_folder>N</create_parent_folder>
-      <run_configuration>local</run_configuration>
+      <exec_per_row>N</exec_per_row>
+      <filename>${PROJECT_HOME}/ods/ods_trf_staff.hpl</filename>
+      <loglevel>Basic</loglevel>
       <parameters>
         <pass_all_parameters>Y</pass_all_parameters>
       </parameters>
+      <params_from_previous>N</params_from_previous>
+      <run_configuration>local</run_configuration>
+      <set_append_logfile>N</set_append_logfile>
+      <set_logfile>N</set_logfile>
+      <wait_until_finished>Y</wait_until_finished>
       <parallel>N</parallel>
       <xloc>976</xloc>
       <yloc>48</yloc>
@@ -240,24 +228,22 @@
       <description/>
       <type>PIPELINE</type>
       <attributes/>
-      <filename>${PROJECT_HOME}/ods/ods_trf_inventory.hpl</filename>
-      <params_from_previous>N</params_from_previous>
-      <exec_per_row>N</exec_per_row>
-      <clear_rows>N</clear_rows>
-      <clear_files>N</clear_files>
-      <set_logfile>N</set_logfile>
-      <logfile/>
-      <logext/>
       <add_date>N</add_date>
       <add_time>N</add_time>
-      <loglevel>Basic</loglevel>
-      <set_append_logfile>N</set_append_logfile>
-      <wait_until_finished>Y</wait_until_finished>
+      <clear_files>N</clear_files>
+      <clear_rows>N</clear_rows>
       <create_parent_folder>N</create_parent_folder>
-      <run_configuration>local</run_configuration>
+      <exec_per_row>N</exec_per_row>
+      <filename>${PROJECT_HOME}/ods/ods_trf_inventory.hpl</filename>
+      <loglevel>Basic</loglevel>
       <parameters>
         <pass_all_parameters>Y</pass_all_parameters>
       </parameters>
+      <params_from_previous>N</params_from_previous>
+      <run_configuration>local</run_configuration>
+      <set_append_logfile>N</set_append_logfile>
+      <set_logfile>N</set_logfile>
+      <wait_until_finished>Y</wait_until_finished>
       <parallel>N</parallel>
       <xloc>976</xloc>
       <yloc>160</yloc>
@@ -268,24 +254,22 @@
       <description/>
       <type>PIPELINE</type>
       <attributes/>
-      <filename>${PROJECT_HOME}/ods/ods_trf_category_film.hpl</filename>
-      <params_from_previous>N</params_from_previous>
-      <exec_per_row>N</exec_per_row>
-      <clear_rows>N</clear_rows>
-      <clear_files>N</clear_files>
-      <set_logfile>N</set_logfile>
-      <logfile/>
-      <logext/>
       <add_date>N</add_date>
       <add_time>N</add_time>
-      <loglevel>Basic</loglevel>
-      <set_append_logfile>N</set_append_logfile>
-      <wait_until_finished>Y</wait_until_finished>
+      <clear_files>N</clear_files>
+      <clear_rows>N</clear_rows>
       <create_parent_folder>N</create_parent_folder>
-      <run_configuration>local</run_configuration>
+      <exec_per_row>N</exec_per_row>
+      <filename>${PROJECT_HOME}/ods/ods_trf_category_film.hpl</filename>
+      <loglevel>Basic</loglevel>
       <parameters>
         <pass_all_parameters>Y</pass_all_parameters>
       </parameters>
+      <params_from_previous>N</params_from_previous>
+      <run_configuration>local</run_configuration>
+      <set_append_logfile>N</set_append_logfile>
+      <set_logfile>N</set_logfile>
+      <wait_until_finished>Y</wait_until_finished>
       <parallel>N</parallel>
       <xloc>976</xloc>
       <yloc>256</yloc>
@@ -385,6 +369,27 @@
       <note>FROM database sakila (MYSQL)
 to database ods (MYSQL)</note>
       <width>175</width>
+    </notepad>
+    <notepad>
+      <backgroundcolorblue>251</backgroundcolorblue>
+      <backgroundcolorgreen>232</backgroundcolorgreen>
+      <backgroundcolorred>201</backgroundcolorred>
+      <bordercolorblue>90</bordercolorblue>
+      <bordercolorgreen>58</bordercolorgreen>
+      <bordercolorred>14</bordercolorred>
+      <fontbold>N</fontbold>
+      <fontcolorblue>90</fontcolorblue>
+      <fontcolorgreen>58</fontcolorgreen>
+      <fontcolorred>14</fontcolorred>
+      <fontitalic>N</fontitalic>
+      <fontname>Segoe UI</fontname>
+      <fontsize>9</fontsize>
+      <height>41</height>
+      <xloc>238</xloc>
+      <yloc>345</yloc>
+      <note>Update pela nossa máquin
+</note>
+      <width>150</width>
     </notepad>
   </notepads>
   <attributes/>
